@@ -19,3 +19,4 @@ Uploaded the project files (app script, database, requirements.txt) to a GitHub 
 Deployed the app on Streamlit Community Cloud by linking the GitHub repo, selecting the main file, and letting Streamlit handle dependency installation and hosting.
 
 # Live Access: Published dashboard is accessible at:
+https://food-waste-management-acmewrr6wyt9takctardbm.streamlit.app/
